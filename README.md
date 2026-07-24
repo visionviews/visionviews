@@ -1,6 +1,4 @@
-[![visionviews's Discord status](https://dsc-readme.tsuni.dev/api/user/1252142057531768844?theme=githubDark&width=488&font=vampyre&effect=gradient&nameColor1=22d3ee&nameColor2=3b82f6&layout=compact)](https://github.com/the-snesler/discord-github-preview)[![visionviews's Discord status](https://dsc-readme.tsuni.dev/api/user/1252142057531768844?theme=githubDark&width=488&font=vampyre&effect=gradient&nameColor1=22d3ee&nameColor2=3b82f6&layout=compact)](https://github.com/the-snesler/discord-github-preview)
-
-
+[![visionviews's Discord status](https://dsc-readme.tsuni.dev/api/user/1252142057531768844?theme=githubDark&width=488&font=vampyre&effect=gradient&nameColor1=22d3ee&nameColor2=3b82f6&layout=compact)](https://github.com/the-snesler/discord-github-preview)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 
@@ -8,4 +6,4 @@
 ![](https://streak-stats.demolab.com/?user=visionviews&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=visionviews&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
